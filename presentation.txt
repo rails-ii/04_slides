@@ -1,0 +1,92 @@
+Rails course, #4
+================
+:author:    Andrzej Krzywda
+:copyright: Andrzej Krzywda
+:backend:   slidy
+:max-width: 45em
+:data-uri:
+:icons:
+
+
+General stuff
+-------------
+
+* https://github.com/rails-ii/04_slides
+* 4nd exercise - summary
+* ruby koans
+* missing lectures: 08.11, 16.11 (4h)
+
+Fifth exercise
+-------------
+
+* application with authentication (based on github/other)
+* application with authentication (based on login/password)
+* repo with your big project, may contain only empty rails app and an README
+
+
+
+Plan for today
+-------------
+
+* Summary from last time - search, pagination
+* Authentication
+* Devise, omni_auth, roll your own
+* Permissions - cancan
+* Remote work
+* JS + Rails basics
+
+
+Search, pagination
+----------------
+coding
+
+
+
+Authentication - theory
+---------------------
+user, session
+
+
+
+Devise
+------
+https://github.com/plataformatec/devise
+
+
+OmniAuth
+-------
+http://railscasts.com/episodes/241-simple-omniauth?view=asciicast
+Github
+
+
+Roll your own
+------------
+https://github.com/drugpl/call4papers
+Railscast
+http://railscasts.com/episodes/270-authentication-in-rails-3-1?view=asciicast
+
+
+
+
+Rails admin
+----------
+rails_admin
+https://github.com/sferik/rails_admin
+activeadmin.info
+
+
+Cancan
+-----
+Permissions, roles
+
+
+How to work remotely with Rails
+------------------------------
+Github
+Campfire
+irc
+Redmine / Pivotal
+Tests / Continuous integration / Notifications
+
+Backbone
+--------
